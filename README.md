@@ -2,7 +2,10 @@
 💻 Full-Stack Developer | Software Engineering Student at ENSI
 
 ## 💫 About Me:
-👋 Hi there!<br><br>🌱 I'm currently working on: a web app that helps people find and rent cars easily 🚗<br>🤝 I'm looking to collaborate on: open-source web projects using React, Node.js, and Spring Boot 💡<br>🆘 I'm looking for help with: improving backend performance and API optimization ⚙️<br>📚 I'm currently learning: Docker, CI/CD, and a bit of machine learning 🤖<br>💬 Ask me about: web development, competitive programming, or how to start with Spring Boot 💻<br>😄 Fun fact: I can code for hours as long as I have coffee ☕ and good music 🎶
+💻 I'm a very passionate student about Programming and Problem-Solving.  
+🔭 Currently studying in 2nd Year at ENSI.  
+📫 How to reach me: ben.mim.mohamed.anas.contact@gmail.com<br>
+😄 Fun fact: I can code for hours as long as I have coffee ☕ and good music 🎶
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anas-ben-mim-1b6ab3331/)  
