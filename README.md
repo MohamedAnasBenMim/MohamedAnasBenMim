@@ -5,7 +5,7 @@
 💻 I'm a very passionate student about Programming and Problem-Solving.  
 🔭 Currently studying in 2nd Year at ENSI.  
 📫 How to reach me: ben.mim.mohamed.anas.contact@gmail.com<br>
-😄 Fun fact: I can code for hours as long as I have coffee ☕ and good music 🎶
+😄 Fun fact: I can code for hours as long as I have coffee ☕ 
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-anas-ben-mim-1b6ab3331/)  
