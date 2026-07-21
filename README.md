@@ -14,11 +14,12 @@
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MohamedAnasBenMim">
     <img
-      src="https://komarev.com/ghpvc/?username=MohamedAnasBenMim&label=Profile%20views&color=00FFFF&style=flat-square"
+      src="https://komarev.com/ghpvc/?username=MohamedAnasBenMim&label=Profile%20views&color=0A66C2&style=flat-square"
       alt="MohamedAnasBenMim profile views"
     />
   </a>
 </p>
+
 
 <table>
   <tr>
