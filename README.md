@@ -51,7 +51,6 @@
 
 </table>
 
-## 📊 GitHub Stats & Trophies
 
 
 
