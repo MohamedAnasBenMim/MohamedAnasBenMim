@@ -1,27 +1,59 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Ben Mim Mohamed Anas</h1>
-<h3 align="center">Computer Science engineering student</h3>
+<h1 align="center">
+  Hey
+  <img
+    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
+    width="30"
+    height="30"
+    alt="Waving hand"
+  />
+  I'm Ben Mim Mohamed Anas
+</h1>
+
+<h3 align="center">Computer Science Engineering Student</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MohamedAnasBenMim">
-    <img src="https://komarev.com/ghpvc/?username=MohamedAnasBenMim&label=Profile%20views&color=00FFFF&style=flat-square" alt="MohamedAnasBenMim's profile views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=MohamedAnasBenMim&label=Profile%20views&color=00FFFF&style=flat-square"
+      alt="MohamedAnasBenMim profile views"
+    />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="50%" />
+<table>
+  <tr>
+    <td width="52%" valign="top">
 
-## 📌 About Me
-- 🎓 Computer Science Engineering student at ENSI, Tunisia
-- 💻 Passionate about software development, DevOps and artificial intelligence
-- ☁️ AWS Cloud Practitioner and AWS AI Practitioner certified
+### 📌 About Me
+
+* 🎓 Computer Science Engineering student at **ENSI, Tunisia**
+* 💻 Passionate about **software development, DevOps, and AI**
+* ☁️ AWS Cloud Practitioner certified
+* 🤖 AWS AI Practitioner certified
+
+### 🎯 Focus Areas
+
+* 💻 Full-Stack Web Development
+* ☁️ DevOps and Cloud Technologies
+* 🤖 Artificial Intelligence
+* 🏗️ Software Architecture
+* ⚡ Real-Time Systems
+
+    </td>
+    <td width="48%" align="center" valign="middle">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+        alt="Developer animation"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+</table>
+
+## 📊 GitHub Stats & Trophies
 
 
-## 🧠 My Focus Areas
-- ## 🎯 Focus Areas
-- 💻 Full-Stack Web Development
-- ☁️ DevOps and Cloud Technologies
-- 🤖 Artificial Intelligence
-- 🏗️ Software Architecture
-- ⚡ Real-Time Systems
 
 
 ## 📊 GitHub Stats & Trophies
