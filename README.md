@@ -120,10 +120,19 @@ width="40"
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+    alt="Docker"
+    width="40"
+  />&nbsp;&nbsp;&nbsp;
+
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    alt="Amazon Web Services"
+    width="55"
+  />
 </p>
 
 <h3 align="center">Tools</h3>
