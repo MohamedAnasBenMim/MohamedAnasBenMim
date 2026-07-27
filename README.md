@@ -123,15 +123,8 @@ width="40"
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-    alt="Docker"
-    width="40"
-  />&nbsp;&nbsp;&nbsp;
-
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-    alt="Amazon Web Services"
-    width="55"
+    src="https://skillicons.dev/icons?i=docker,aws&theme=dark"
+    alt="Docker and AWS"
   />
 </p>
 
