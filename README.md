@@ -169,8 +169,3 @@ width="40"
   </a>
 </p>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Med_Anas888?theme=dark&font=Baloo%202&ext=heatmap" alt="Med_Anas888 LeetCode Stats" width="48%" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Med_Anas&theme=dark" alt="Med_Anas Codeforces Stats" width="48%" />
-</p>
-
