@@ -155,3 +155,22 @@ width="40"
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
 
+## 🧩 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Med_Anas888/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Med_Anas">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://neetcode.io/user/IronPirate772">
+    <img src="https://img.shields.io/badge/NeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00C853" alt="NeetCode"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Med_Anas888?theme=dark&font=Baloo%202&ext=heatmap" alt="Med_Anas888 LeetCode Stats" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Med_Anas&theme=dark" alt="Med_Anas Codeforces Stats" width="48%" />
+</p>
+
