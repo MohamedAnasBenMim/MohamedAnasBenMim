@@ -65,7 +65,11 @@
   <img src="https://streak-stats.demolab.com/?user=MohamedAnasBenMim&theme=radical&hide_border=true&cache_seconds=86400" alt="MohamedAnasBenMim's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedAnasBenMim&theme=radical&radius=10" alt="MohamedAnasBenMim's Activity Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAnasBenMim&theme=radical"
+    alt="MohamedAnasBenMim's GitHub Activity"
+    width="100%"
+  />
 </p>
 
 
