@@ -60,14 +60,20 @@
 
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MohamedAnasBenMim&theme=radical&hide_border=true&cache_seconds=86400" alt="MohamedAnasBenMim's GitHub Streak" width="49%" />
-</p>
+## 📊 GitHub Activity
+
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedAnasBenMim&theme=radical"
-    alt="MohamedAnasBenMim's GitHub Activity"
+    src="https://streak-stats.demolab.com/?user=MohamedAnasBenMim&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="MohamedAnasBenMim's GitHub Streak"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/ff1493/MohamedAnasBenMim"
+    alt="MohamedAnasBenMim GitHub Contribution Graph"
     width="100%"
   />
 </p>
