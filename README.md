@@ -64,16 +64,16 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=MohamedAnasBenMim&theme=radical&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=MohamedAnasBenMim&theme=radical&hide_border=true&cache_seconds=86400"
+    alt="MohamedAnasBenMim GitHub Streak"
     width="49%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://YOUR-VERCEL-APP.vercel.app/graph?username=MohamedAnasBenMim&theme=radical&radius=12&area=true&hide_border=true"
-    alt="MohamedAnasBenMim's GitHub Activity Graph"
+    src="https://raw.githubusercontent.com/MohamedAnasBenMim/MohamedAnasBenMim/output/activity-graph.svg"
+    alt="MohamedAnasBenMim GitHub Activity"
     width="100%"
   />
 </p>
